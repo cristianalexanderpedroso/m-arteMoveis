@@ -47,6 +47,16 @@ input[type=number] {
     
   }
 
+  .site-construction{
+    font-size: 20px;
+    background-color: var(--color-red-text);
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+
+
   .button-link{
     color: #fff;
     text-decoration: none;
